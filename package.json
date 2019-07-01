@@ -1,0 +1,31 @@
+{
+  "name": "d3-heat-map",
+  "version": "1.0.0",
+  "description": "A heat map is a graphical representation of data where the individual values contained in a matrix are represented as colors.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammychris/d3-choropleth-map.git"
+  },
+  "keywords": [
+    "D3",
+    "heat",
+    "map"
+  ],
+  "author": "Samuel C. Okanume",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammychris/d3-choropleth-map/issues"
+  },
+  "homepage": "https://sammychris.github.io/d3-choropleth-map"
+}
